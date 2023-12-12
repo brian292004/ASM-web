@@ -1,0 +1,30 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .profile {
+    text-align: center;
+  }
+  
+  .avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  h1, h2, p {
+    margin: 10px 0;
+  }
+  
+  hr {
+    margin: 20px 0;
+  }
+  
+  .details {
+    text-align: left;
+  }
+  
